@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Edebiyat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# literatureProjectWebPage
+I made this web page for my literature annual project. I use angular 5.0 and bootrap.  
+>>>>>>> 95e196ab3ce76c92ae3ae080d7b802aee5a35b91
